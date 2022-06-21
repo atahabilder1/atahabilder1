@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Anik Tahabilder, a PhD student here at Wayne State Univeristy, Detroit, Michigan, USA 👋
 
 <!--
 **atahabilder1/atahabilder1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
