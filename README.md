@@ -1,5 +1,6 @@
 <!-- Banner (replace the link with your own banner image URL or repo asset) -->
-![Banner](https://your-image-link-here.com/banner.png)
+![Banner](https://raw.githubusercontent.com/atahabilder1/atahabilder1/main/banner.jpeg)
+
 
 # Hi there, I'm Anik Tahabilder! 👋
 
