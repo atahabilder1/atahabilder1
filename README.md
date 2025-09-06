@@ -1,3 +1,6 @@
+<!-- Banner (replace the link with your own banner image URL or repo asset) -->
+![Banner](https://your-image-link-here.com/banner.png)
+
 # Hi there, I'm Anik Tahabilder! 👋
 
 🎓 **Ph.D. Candidate in Computer Science (Blockchain & Smart Contract Security)**  
@@ -47,9 +50,20 @@
 
 ---
 
+## 📊 GitHub Stats
+![Anik's GitHub stats](https://github-readme-stats.vercel.app/api?username=atahabilder1&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atahabilder1&layout=compact&theme=radical)
+
+---
+
+## 🏆 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/anikeee?theme=dark&font=Montserrat&ext=contest)
+
+---
+
 ## 🤝 Let’s Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com)  
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:tahabilderanik@gmail.com)  
 [![Website](https://img.shields.io/badge/Website-Portfolio-green)](https://atahabilder1.github.io)
 
 ---
