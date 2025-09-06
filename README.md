@@ -62,9 +62,9 @@
 ---
 
 ## 🤝 Let’s Connect!
-[![LinkedIn](...)](https://www.linkedin.com) &nbsp;
-[![Email](...)](mailto:tahabilderanik@gmail.com) &nbsp;
-[![Website](...)](https://atahabilder1.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com) 
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:tahabilderanik@gmail.com) 
+[![Website](https://img.shields.io/badge/Website-Portfolio-green)](https://atahabilder1.github.io)
 
 
 ---
